@@ -1,2 +1,2 @@
 # certificates
-Certificate repository
+Repository containing certificates :)
